@@ -62,6 +62,10 @@ can receive it. You can optionally try [GitHub code review functionality](
 https://github.com/features/code-review/), or use comments in the PR to discuss
 and iterate.
 
+## TODO
+    [x] Did you refactor yesterdays code? Why or Why Not?
+        - No, the functions were to simple.
+
 ## Resources and Stretch Goals
 
 If you have trouble getting a PEP8 tool working in your local environment, you
