@@ -64,7 +64,7 @@ and iterate.
 
 ## TODO
     [x] Did you refactor yesterdays code? Why or Why Not?
-        - No, the functions were to simple.
+        * No, the functions were to simple.
 
 ## Resources and Stretch Goals
 
